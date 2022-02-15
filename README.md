@@ -1,2 +1,2 @@
 # LyndaCloneTeam18_U3
-We want to clone this project.
+Lynda is a website which provides various online courses about business, technical and many more.
